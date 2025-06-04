@@ -1,6 +1,6 @@
 {
     'name': 'MRP Especification Orders',
-    'version': '17.0.1',
+    'version': '17.0.0.1',
     'category': 'Manufacturing',
     'summary': 'Agrega una pestaña de especificación en las órdenes de manufactura y agrega las instrucciones de fabricación',
     'description': 'Este módulo agrega una nueva pestaña llamada "Especificación" en las órdenes de manufactura.',
